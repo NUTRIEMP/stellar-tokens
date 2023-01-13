@@ -1,0 +1,42 @@
+ACCOUNTS=[
+"GCHQ4P4MA4AFPY6MZYH5PE7GZJQ4IWTLRL43VTEZW3QQWO46G5IWKBEO", "GD2FVQAQPP72GEVSOAMAPHVL7O2OV7Y5XUYXT62IFAGHBX4WJGLCEIUC"
+]
+
+[DOCUMENTATION]
+ORG_NAME="NUTRIEMP.CRYPTO"
+ORG_DBA="NUTRIEMP.CRYPTO"
+ORG_URL="https://linktr.ee/nutriemp.CRYPTO"
+ORG_LOGO="https://www.centre.io/images/logo-icon.png"
+
+ORG_OFFICIAL_EMAIL="Nutriemp@Outlook.com"
+
+ORG_TWITTER="@Nutriemp"
+ORG_DESCRIPTION="Nutriemp is a Agriculture herbalist company."
+
+[[PRINCIPALS]]
+name="Nutriemp Team"
+email="Nutriemp@Outlook.com"
+
+[[CURRENCIES]]
+code="GRAMZ"
+issuer="GCHQ4P4MA4AFPY6MZYH5PE7GZJQ4IWTLRL43VTEZW3QQWO46G5IWKBEO"
+is_asset_anchored=true
+anchor_asset_type="utility"
+anchor_asset="GRAMZ"
+attestation_of_reserve="https://linktr.ee/nutriemp.CRYPTO"
+redemption_instructions="https://linktr.ee/nutriemp.CRYPTO"
+name="GRAMZ"
+desc="Use GRAMZ to trade or on our dapp for Utility "
+image="https://www.imgpp.com/s1/2022/11/01/GRAMZ.png"
+
+[[CURRENCIES]]
+code="BUDZ"
+issuer="GD2FVQAQPP72GEVSOAMAPHVL7O2OV7Y5XUYXT62IFAGHBX4WJGLCEIUC"
+is_asset_anchored=true
+anchor_asset_type="utility"
+anchor_asset="BUDZ"
+attestation_of_reserve="https://linktr.ee/nutriemp.CRYPTO"
+redemption_instructions="https://linktr.ee/nutriemp.CRYPTO"
+name="BUDZ"
+desc="Use BUDZ to trade or on our dapp for Utility "
+image="https://www.imgpp.com/s1/2022/12/05/BUDZ-COIN-GREEN.png"
