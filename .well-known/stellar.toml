@@ -1,0 +1,41 @@
+ACCOUNTS=[
+"GCHQ4P4MA4AFPY6MZYH5PE7GZJQ4IWTLRL43VTEZW3QQWO46G5IWKBEO", "GD2FVQAQPP72GEVSOAMAPHVL7O2OV7Y5XUYXT62IFAGHBX4WJGLCEIUC"
+]
+
+
+[DOCUMENTATION]
+ORG_NAME="NUTRIEMP.CRYPTO"
+ORG_URL="https://linktr.ee/nutriemp.CRYPTO"
+ORG_LOGO="https://github.com/NUTRIEMP/NutriEmpChain/blob/main/logo.png"
+ORG_GITHUB="https://github.com/NUTRIEMP"
+ORG_OFFICIAL_EMAIL="NUTRIEMP@OUTLOOK.COM"
+
+
+[[PRINCIPALS]]
+name="NUTRIEMP.CRYPTO"
+email="NUTRIEMP@OUTLOOK.COM"
+TWITTER="@Nutriemp"
+
+
+[[CURRENCIES]]
+code="GRAMZ"
+issuer="GCHQ4P4MA4AFPY6MZYH5PE7GZJQ4IWTLRL43VTEZW3QQWO46G5IWKBEO"
+display_decimals=7
+name="GRAMZ"
+desc="GRAMZ is our token available on multiple chains."
+image="https://github.com/NUTRIEMP/GRAMZ/blob/main/GRAMZ.png"
+status="live"
+
+
+
+[[CURRENCIES]]
+code="BUDZ"
+issuer="GD2FVQAQPP72GEVSOAMAPHVL7O2OV7Y5XUYXT62IFAGHBX4WJGLCEIUC"
+display_decimals=7
+name="BUDZ"
+desc="BUDZ is our token available on multiple chains."
+image="https://github.com/NUTRIEMP/BUDZ/blob/main/BUDZ.png"
+status="live"
+
+
+
